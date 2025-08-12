@@ -1,10 +1,9 @@
 
-<!-- Professional GitHub README for abys -->
 
 <h1 align="center">Hi 👋, I'm Abys</h1>
 <h3 align="center">Tech Enthusiast | Frontend Developer | AI & ML Learner</h3>
 
----
+
 
 ### 🚀 About Me
 - 🎓 **BCA Graduate** passionate about technology and innovation.  
@@ -13,7 +12,7 @@
 - 🖥️ Interested in **frontend development, full-stack projects, and AI applications**.    
 - 🎯 Career goal: **AI Developer** with strong software engineering fundamentals.
 
----
+
 
 ### 🛠️ Tech Stack
 **Frontend:**  
@@ -33,7 +32,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)  
 ![Seaborn](https://img.shields.io/badge/-Seaborn-76b900?style=flat)  
 
----
+
 
 ### 📌 Current Projects
 - 🏥 **Online Medical Consultation Platform** — full-stack PHP + SQL  
@@ -52,8 +51,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aby S&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aby S&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
