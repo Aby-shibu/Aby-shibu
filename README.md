@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Abys</h1>
+<h1 align="center">Hi 👋, I'm Aby Shibu</h1>
 <h3 align="center">Tech Enthusiast | Frontend Developer | AI & ML Learner</h3>
 
 
