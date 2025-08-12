@@ -9,9 +9,8 @@
 ### 🚀 About Me
 - 🎓 **BCA Graduate** passionate about technology and innovation.  
 - 💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, PHP, and SQL**.  
-- 🤖 Currently diving deep into **AI & ML** through self-learning and ICTAK Certified Specialist course.  
-- 🖥️ Interested in **frontend development, full-stack projects, and AI applications**.  
-- 🌱 Working on practical projects like **Online Medical Consultation Platform** and landing pages for businesses.  
+- 🤖 Currently diving deep into **AI & ML** through self-learning  
+- 🖥️ Interested in **frontend development, full-stack projects, and AI applications**.    
 - 🎯 Career goal: **AI Developer** with strong software engineering fundamentals.
 
 ---
@@ -45,7 +44,7 @@
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abyshibu06)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/your-link)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://your-portfolio-link)  
 
